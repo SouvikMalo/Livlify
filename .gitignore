@@ -1,0 +1,9 @@
+# Local Gradle installation
+**/gradle-8.13/
+**/gradle-8.13-bin.zip
+
+# Local Android SDK configuration
+**/local.properties
+
+# Build outputs
+**/build/
